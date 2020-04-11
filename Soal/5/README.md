@@ -84,13 +84,13 @@ ___
 * `celciusToFahrenheit()`: mengkonversi parameter dari celcius ke fahrenheit.
 * `celciusToKelvin()`: mengkonversi parameter dari celcius ke kelvin.
 ___
-* `teraToGiga()`: mengkonversi parameter dari Terabyte ke GigaByte.
+* `teraToGiga()`: mengkonversi parameter dari Terabyte ke GigaByte. hint: 1 Gigabyte = 1,024 Megabyte = 1,048,576 Kilobyte.
 * `teraToMega()`: mengkonversi parameter dari Terabyte ke MegaByte.
 * `teraToKilo()`: mengkonversi parameter dari Terabyte ke KiloByte.
 ___
 * `metreToKilo()`: mengkonversi parameter dari satuan meter ke kilometer.
 * `metreToMilli()`: mengkonversi parameter dari satuan meter ke milimeter.
-* `inchToMetre()`: mengkonversi parameter dari inci ke meter.
+* `inchToMetre()`: mengkonversi parameter dari inci ke meter. hint: 1 inch = 2.54cm
 
 ### Note
 Hal yang kurang jelas bisa ditanyakan ke asisten lab.
