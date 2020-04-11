@@ -93,7 +93,8 @@ ___
 * `inchToMetre()`: mengkonversi parameter dari inci ke meter. hint: 1 inch = 2.54cm
 
 ### Note
-Hal yang kurang jelas bisa ditanyakan ke asisten lab.
+Hal yang kurang jelas bisa ditanyakan ke asisten lab atau di google classroom.
 
+Main method dari kelas Main hanya sebagai test cases untuk method yang ada, jika kalian mempunyai ide yang lain untuk tugas ini silahkan ubah main method sesuai kemauan masing-masing (atau bertanya pada asisten lab). **Hal yang harus dipahami dari tugas ini adalah bagaimana cara kerja kelas abstrak dan interface pada Java.**
 
-Main method dari kelas Main hanya sebagai test cases untuk method yang ada, jika kalian mempunyai ide yang lain untuk tugas ini silahkan ubah main method sesuai kemauan masing-masing (atau bertanya pada asisten lab). Hal yang harus dipahami dari tugas ini adalah bagaimana cara kerja kelas abstrak dan interface pada Java.
+### semangat boi
