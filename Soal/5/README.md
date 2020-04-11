@@ -1,5 +1,5 @@
 ## TUGAS PRAKTIKUM PERTEMUAN 5: ABSTRACT CLASS & INTERFACE
-![alt text](https://raw.githubusercontent.com/farhanr/lab-pbo/master/Soal/5/assets/Diagram.png)
+![Skema](https://raw.githubusercontent.com/farhanr/lab-pbo/master/Soal/5/assets/skema-diagram.png)
 ### Keterangan
 Dari skema diatas terdapat:
 * Sebuah kelas abstrak: Converter.
