@@ -1,7 +1,6 @@
-
 public class Main {
     public static void main(String[] args) {
-        CalculatorData cData = new CalculatorData();
+        ConverterData cData = new ConverterData();
         cData.start();
         if (cData.teraToGiga(9) == 9216) {
             System.out.println("Terabyte To Gigabyte = OK");
@@ -24,7 +23,7 @@ public class Main {
         cData.stop();
         System.out.println("\n");
 
-        CalculatorTemperature cTemp = new CalculatorTemperature();
+        ConverterTemperature cTemp = new ConverterTemperature();
         cTemp.start();
         if (cTemp.celciusToFahrenheit(9) == 48.2) {
             System.out.println("Celcius to Fahrenheit = OK");
@@ -41,7 +40,7 @@ public class Main {
         cTemp.stop();
         System.out.println("\n");
 
-        CalculatorDistance cDistance = new CalculatorDistance();
+        ConverterDistance cDistance = new ConverterDistance();
         cDistance.start();
         if (cDistance.inchToMetre(1) == 0.0254) {
             System.out.println("Inch to Metre = OK");

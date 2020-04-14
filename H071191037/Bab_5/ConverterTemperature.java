@@ -1,9 +1,4 @@
-interface Temperature{
-    public double celciusToFahrenheit(double value);
-    public double celciusToKelvin(double value);
-}
-
-public class CalculatorTemperature extends Converter implements Temperature {
+public class ConverterTemperature extends Converter implements Temperature {
 
     @Override
     public double celciusToFahrenheit(double value) {

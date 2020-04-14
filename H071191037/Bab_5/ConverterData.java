@@ -1,10 +1,4 @@
-interface Data{
-    public long teraToGiga(long value);
-    public long teraToMega(long value);
-    public long teraToKilo(long value);
-}
-
-public class CalculatorData extends Converter implements Data {
+public class ConverterData extends Converter implements Data {
 
     @Override
     public long teraToGiga(long value) {

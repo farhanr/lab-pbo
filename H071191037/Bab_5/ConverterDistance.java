@@ -1,10 +1,4 @@
-interface Distance{
-    public double metreToKilo(double value);
-    public double metreToMilli(double value);
-    public double inchToMetre(double value);
-}
-public class CalculatorDistance extends Converter implements Distance {
-
+public class ConverterDistance extends Converter implements Distance {
     @Override
     public double metreToKilo(double value) {
         return value / Math.pow(10, 3);
