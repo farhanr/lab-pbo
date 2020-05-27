@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Scratch02",
+            "request": "launch",
+            "mainClass": "id.salsa/id.salsa.scene.Scratch02",
+            "projectName": "hello-app"
+        }
+    ]
+}
